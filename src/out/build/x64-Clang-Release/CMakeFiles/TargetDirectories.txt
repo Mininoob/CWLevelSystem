@@ -1,0 +1,6 @@
+C:/Users/joshu/Documents/Modding/Cubeworld/LevelSystem/CWLevelSystem/src/out/build/x64-Clang-Release/CMakeFiles/LevelSystem.dir
+C:/Users/joshu/Documents/Modding/Cubeworld/LevelSystem/CWLevelSystem/src/out/build/x64-Clang-Release/CMakeFiles/edit_cache.dir
+C:/Users/joshu/Documents/Modding/Cubeworld/LevelSystem/CWLevelSystem/src/out/build/x64-Clang-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/joshu/Documents/Modding/Cubeworld/LevelSystem/CWLevelSystem/src/out/build/x64-Clang-Release/CWSDK/CMakeFiles/CWSDK.dir
+C:/Users/joshu/Documents/Modding/Cubeworld/LevelSystem/CWLevelSystem/src/out/build/x64-Clang-Release/CWSDK/CMakeFiles/edit_cache.dir
+C:/Users/joshu/Documents/Modding/Cubeworld/LevelSystem/CWLevelSystem/src/out/build/x64-Clang-Release/CWSDK/CMakeFiles/rebuild_cache.dir
